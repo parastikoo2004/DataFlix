@@ -3,7 +3,7 @@ import requests
 
 # Fetch the API key from Streamlit secrets
 try:
-    API_KEY = st.secrets["TMDB_API_KEY"]
+    API_KEY = "e98e0a4541364a1ca0a7829db933f352"
 except (KeyError, FileNotFoundError):
     API_KEY = None
 
