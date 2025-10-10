@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+wordcloud
+requests
+matplotlib
+streamlit-lottie
+streamlit-extras
