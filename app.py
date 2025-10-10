@@ -27,7 +27,7 @@ def show_loading_screen():
     if loading_animation:
         with st.spinner(" "): # Spinner without text
             st_lottie(loading_animation, height=200, key="loading")
-            st.markdown("<h3 style='text-align: center;'>Hey There!, Give us a moment to create streaming data into strategy with passion :).</h3>", unsafe_allow_html=True)
+            st.markdown("<h3 style='text-align: center;'>Give us a moment to create streaming data into strategy with passion :D </h3>", unsafe_allow_html=True)
             time.sleep(2.5) # Simulate loading time
     else:
         st.warning("Loading animation not found.")
