@@ -113,36 +113,3 @@ Animations: streamlit-lottie (for Lottie JSON animations)
 API Communication: Requests (for TMDb API)
 
 Styling: Custom CSS (injected via st.markdown)
-
-
-📂 Project Structure
-
-DataFlix/
-│
-├── .streamlit/
-│   └── secrets.toml          # Stores API keys
-│
-├── assets/
-│   └── loading_animation.json # Lottie animation file
-│
-├── components/
-│   ├── home_page.py
-│   ├── netflix_dashboard.py
-│   ├── prime_dashboard.py
-│   ├── disney_dashboard.py
-│   └── hulu_dashboard.py
-│
-├── data/
-│   ├── netflix_titles.csv
-│   ├── amazon_prime_titles.csv
-│   ├── disney_plus_titles.csv
-│   └── hulu_titles.csv
-│
-├── utils/
-│   ├── api_utils.py          # Functions for TMDb API calls
-│   ├── data_loader.py        # Caching & loading data
-│   └── insights.py           # BI recommendations engine
-│
-├── app.py                    # Main application file to run
-├── requirements.txt          # Project dependencies
-└── style.css                 # Custom CSS for styling
