@@ -1,12 +1,8 @@
-#DataFlix: The OTT Intelligence Dashboard 🔮
+**DataFlix: The OTT Intelligence Dashboard** 🔮
 
 A comprehensive, multi-page Business Intelligence dashboard built in Python that analyzes and compares the content strategies of the world's top streaming platforms: Netflix, Prime Video, Disney+, and Hulu.
 
 This app transforms raw, siloed datasets into a high-performance, interactive tool for strategic analysis, complete with a "glassmorphism" UI, animated visualizations, and a live API connection to The Movie Database (TMDb).
-
-[RECOMMENDATION: Insert a high-quality GIF of your dashboard in action here! A short screen recording of you scrolling through the app would look incredible.]
-
-![DataFlix Dashboard Demo](httpsType_Your_Link_To_A_Demo_Gif_Here.gif)
 
 ✨ Core Features
 
