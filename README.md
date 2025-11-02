@@ -48,7 +48,7 @@ Follow these steps to get the project running on your local machine.
 
 1. Clone the Repository
 
-git clone [https://github.com/](https://github.com/parastikoo2004)/DataFlix.git
+git clone [https://github.com/parastikoo2004/DataFlix.git]
 cd DataFlix
 
 
@@ -114,25 +114,6 @@ API Communication: Requests (for TMDb API)
 
 Styling: Custom CSS (injected via st.markdown)
 
-📸 Dashboard Screenshots
-
-(I highly recommend adding screenshots of each dashboard page here. They will make your README look incredibly professional.)
-
-1. Home Page (Global Overview & Title Intelligence)
-
-[Insert Screenshot of your Home Page here]
-
-2. Netflix Dashboard (Global Strategy)
-
-[Insert Screenshot of your Netflix Dashboard here]
-
-3. Disney+ Dashboard (Seasonal & Brand Focus)
-
-[Insert Screenshot of your Disney+ Dashboard here]
-
-4. Hulu Dashboard (Licensed Content Analysis)
-
-[Insert Screenshot of your Hulu Dashboard here]
 
 📂 Project Structure
 
